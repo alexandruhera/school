@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "C:\\Users\\alexa\\IdeaProjects\\travel",
+  "node.version": "v16.15.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "C:\\Users\\alexa\\IdeaProjects\\travel\\target\\frontend",
+  "frontendFolder": "C:\\Users\\alexa\\IdeaProjects\\travel\\frontend",
+  "connect.javaSourceFolder": "C:\\Users\\alexa\\IdeaProjects\\travel\\src\\main\\java",
+  "javaResourceFolder": "C:\\Users\\alexa\\IdeaProjects\\travel\\src\\main\\resources",
+  "connect.applicationProperties": "C:\\Users\\alexa\\IdeaProjects\\travel\\src\\main\\resources\\application.properties",
+  "connect.openApiFile": "C:\\Users\\alexa\\IdeaProjects\\travel\\target\\generated-resources\\openapi.json",
+  "project.frontend.generated": "C:\\Users\\alexa\\IdeaProjects\\travel\\frontend\\generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}
